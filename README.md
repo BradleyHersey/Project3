@@ -21,7 +21,7 @@ Bubblink is an app that allows users to develop relationships with others from t
 
 # Link to GitHub
 
-https://github.com/rmxjohnson/VirtualChat.git
+https://bradleyhersey.github.io/Project3Bubblink/
 
 ## Technologies used:
 * ReactJS
